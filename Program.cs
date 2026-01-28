@@ -15,7 +15,8 @@ class Program
         // p.BuilderExample();
         // p.Tp1Banque();
         // p.Tp3Logger();
-        DecoratorDemo.Run(new string[0]);
+        // DecoratorDemo.Run(new string[0]);
+        FacadeDemo.Run(new string[0]);
 
     }
 
