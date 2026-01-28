@@ -26,3 +26,4 @@
 /Users/clementberard/cours-m1/design-patterns/project/obj/Debug/net8.0/singleton.pdb
 /Users/clementberard/cours-m1/design-patterns/project/obj/Debug/net8.0/singleton.genruntimeconfig.cache
 /Users/clementberard/cours-m1/design-patterns/project/obj/Debug/net8.0/ref/singleton.dll
+/Users/clementberard/cours-m1/design-patterns/project/obj/Debug/net8.0/singleton.sourcelink.json
