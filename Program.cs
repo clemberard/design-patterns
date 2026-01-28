@@ -3,6 +3,7 @@ using tp1.banque.documents;
 using tp2;
 using tp3.logger;
 using Tp4;
+using Tp5;
 
 class Program
 {
@@ -13,8 +14,9 @@ class Program
         // p.FactoryExample();
         // p.BuilderExample();
         // p.Tp1Banque();
-        p.Tp3Logger();
-        PaymentDemo.Run();
+        // p.Tp3Logger();
+        DecoratorDemo.Run(new string[0]);
+
     }
 
     private void SingletonExample()
